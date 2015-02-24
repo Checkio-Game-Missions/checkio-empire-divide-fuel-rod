@@ -1,3 +1,3 @@
-We have found an interesting algorithm for optimisation of the fuel system.
-If we will divide the fuel rod for the several parts by the Triangular numbers law,
-then we will get more power.
+We have found an interesting algorithm which may be used for the optimisation of our fuel system.
+If we will divide a fuel rod into several pieces following the Triangular numbers law,
+then we appear to generate more power.
