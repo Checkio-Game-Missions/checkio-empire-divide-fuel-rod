@@ -12,4 +12,17 @@ You are given th length of the fuel rod (N).
 You should return a list of lengths (integers) for the parts in ascending order.
 If it's not possible and the problem does not have a solution, then you should return an empty list.
 
-![Rods](sawing.png)
+```
+64  ================================================================
+28  ----------------------------
+21  ---------------------
+15  ---------------
+
+371 =====================================
+91  ---------
+78  --------
+66  -------
+55  ------
+45  -----
+36  ----
+```
