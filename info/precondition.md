@@ -1,4 +1,3 @@
 **Precondition:**
-```python
-0 < length < 1000
-```
+
+`0 < length < 1000`
