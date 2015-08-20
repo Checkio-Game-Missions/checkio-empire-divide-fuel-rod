@@ -12,4 +12,6 @@ if (!global.is_checking) {
     assert.deepEqual(disjoint(371), [36, 45, 55, 66, 78, 91], "1st example");
     assert.deepEqual(disjoint(225), [105, 120], "1st example");
     assert.deepEqual(disjoint(882), [], "1st example");
+    console.log("Earn cool rewards by using the 'Check' button!");
 }
+
