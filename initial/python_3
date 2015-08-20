@@ -8,3 +8,5 @@ if __name__ == '__main__':
     assert disjoint(371) == [36, 45, 55, 66, 78, 91], "1st example"
     assert disjoint(225) == [105, 120], "1st example"
     assert disjoint(882) == [], "1st example"
+
+    print("Coding complete? Click 'Check' to review your tests and earn cool rewards!")
